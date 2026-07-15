@@ -6,3 +6,4 @@
 </div>
 
 ![Top Langs](https://github-readme-stats-hama10.vercel.app/api/top-langs/?username=hamaiiiii&layout=compact&bg_color=F7F7F7&title_color=000000&text_color=000000&hide_border=false)
+![Footer](https://capsule-render.vercel.app/api?type=soft&height=150&color=0:6DD5FA50:1BFFFF,100:2E3192&text=hama.iiiii&section=footer&reversal=false&fontColor=F7F7F7&fontSize=50&animation=twinkling)
