@@ -1,1 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=hama.iiiii&reversal=false&section=header&textBg=false&fontSize=100&fontColor=F7F7F7&rotate=0&animation=twinkling&descAlign=50&descAlignY=64)
+<div align=center>
+
+![Header](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:6DD5FA50:1BFFFF,100:2E3192&text=hama.iiiii&reversal=false&section=header&textBg=false&fontSize=100&fontColor=F7F7F7&rotate=0&animation=twinkling&descAlign=50&desc=web%20developer&descAlignY=75&fontAlign=50&descSize=20)
+
+<p>Passionate about minimalist UI design.</p>
+</div>
+
