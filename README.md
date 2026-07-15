@@ -1,1 +1,5 @@
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<div align=center>
+  hamaiiiii
+</div>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hamasan&show_icons=true)
