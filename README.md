@@ -1,3 +1,1 @@
-<div align=center>
-  hamaiiiii
-</div>
+![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=hama.iiiii&reversal=false&section=header&textBg=false&fontSize=100&fontColor=F7F7F7&rotate=0&animation=twinkling&descAlign=50&descAlignY=64)
