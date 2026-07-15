@@ -5,4 +5,4 @@
 <p>Passionate about minimalist UI design.</p>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamaiiiii&layout=donut&theme=radical)
+![Top Langs](https://github-readme-stats-hama10.vercel.app/api/top-langs/?username=hamaiiiii&layout=compact&bg_color=F7F7F7&title_color=000000&text_color=000000&hide_border=false)
