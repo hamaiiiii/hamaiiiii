@@ -12,12 +12,16 @@
 ### Free Web
 
 <a href="https://github.com/hamaiiiii/npc-website">
-<img src="https://raw.githubusercontent.com/hamaiiiii/hamaiiiii/main/images/card-npc-website.svg" width="100%">
+<img src="https://raw.githubusercontent.com/hamaiiiii/hamaiiiii/main/images/card-npc-website.svg" width="70%">
 </a>
 
 <a href="https://github.com/hamaiiiii/mobile-order-app">
-<img src="https://raw.githubusercontent.com/hamaiiiii/hamaiiiii/main/images/card-mobile-order.svg" width="100%">
+<img src="https://raw.githubusercontent.com/hamaiiiii/hamaiiiii/main/images/card-mobile-order.svg" width="70%">
 </a>
+
+<br>
+<br>
+<br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=soft&height=70&color=0:6DD5FA50:1BFFFF,100:2E3192&text=hama.iiiii&reversal=false&section=header&textBg=false&fontSize=40&fontColor=F7F7F7&rotate=0&animation=twinkling&descAlign=50&descAlignY=75&fontAlign=50)
 
