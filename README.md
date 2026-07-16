@@ -11,11 +11,11 @@
 
 ### Free Web
 
-<a href="https://github.com/hamaiiiii/npc-website">
+<a href="https://github.com/NoPlanCoders/npc-website">
 <img src="https://raw.githubusercontent.com/hamaiiiii/hamaiiiii/main/images/card-npc-website.svg" width="70%">
 </a>
 
-<a href="https://github.com/hamaiiiii/mobile-order-app">
+<a href="https://github.com/hamaiiiii/mobile-order">
 <img src="https://raw.githubusercontent.com/hamaiiiii/hamaiiiii/main/images/card-mobile-order.svg" width="70%">
 </a>
 
