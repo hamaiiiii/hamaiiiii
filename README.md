@@ -4,10 +4,6 @@
 
 <p>Passionate about minimalist UI design.</p>
 
-<p align="center">
-<img src="https://github-readme-stats-hama10.vercel.app/api/top-langs/?username=hamaiiiii&text_color=000000&bg_color=ffffff&hide_border=true&hide_title=true" width="300" />
-</p>
-
 ### Free Web APP
 
 <a href="https://github.com/NoPlanCoders/npc-website">
